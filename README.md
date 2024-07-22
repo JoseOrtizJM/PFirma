@@ -40,3 +40,13 @@ La clase `PanelFirma` es responsable de capturar eventos de ratón para permitir
 |-----------------|--------------------------|-------------------------|-----------------------------------------------------------------|
 | `paintComponent`| `void`                   | `Graphics g`            | Dibuja las líneas basadas en los puntos almacenados.             |
 | `clear`         | `void`                   |                         | Limpia la lista de puntos y repinta el panel.                    |
+
+## Instalación
+Para utilizar este componente en tu proyecto, sigue estos pasos:
+1. Obtener el repositorio: 
+   Clona con el siguiente comando
+   ```bash
+      git clone https://github.com/JoseOrtizJM/PFirma.git
+   ```
+   Otra opción es descargar `ZIP`.
+   
