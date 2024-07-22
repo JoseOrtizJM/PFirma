@@ -49,4 +49,4 @@ Para utilizar este componente en tu proyecto, sigue estos pasos:
       git clone https://github.com/JoseOrtizJM/PFirma.git
    ```
    Otra opción es descargar `ZIP`.
-   
+   ![Descargar ZIP](SS/6.png)
