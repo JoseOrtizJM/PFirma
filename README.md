@@ -50,3 +50,18 @@ Para utilizar este componente en tu proyecto, sigue estos pasos:
    ```
    Otra opción es descargar `ZIP`.
    ![Descargar ZIP](SS/6.png)
+3. Importa el proyecto en tu IDE preferido.
+4. Asegúrate de que el proyecto se compila sin errores para crear el `.jar` según la versión de tu Java.
+
+## Uso
+1. Compila tu proyecto para crear el archivo `.jar`
+   Posteriormente presiona `SHIFT + F11` o da click en el siguiente botón.
+    ![Compilar proyecto](SS/1.png)
+3. Agrega el componente a tu paleta de componentes.
+   Da click derecho en la paleta y selecciona *Palette Manager* y selecciona *Add From Jar*
+   Navega hasta la carpeta *dist* del proyecto y selecciona el `.jar`.
+   ![Agregar desde JAR 1](SS/2.png)
+   ![Agregar desde JAR 2](SS/3.png)
+   ![Agregar desde JAR 3](SS/4.png)
+4. Ya está listo para usar y arrastrar a tus componentes
+5. Prueba ya sea en tu `JFrame` o `JDialog` funciona.
