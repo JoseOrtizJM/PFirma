@@ -56,12 +56,22 @@ Para utilizar este componente en tu proyecto, sigue estos pasos:
 ## Uso
 1. Compila tu proyecto para crear el archivo `.jar`
    Posteriormente presiona `SHIFT + F11` o da click en el siguiente botón.
-    ![Compilar proyecto](SS/1.png)
+    ![1](SS/1.png)
 3. Agrega el componente a tu paleta de componentes.
    Da click derecho en la paleta y selecciona *Palette Manager* y selecciona *Add From Jar*
    Navega hasta la carpeta *dist* del proyecto y selecciona el `.jar`.
-   ![Agregar desde JAR 1](SS/2.png)
-   ![Agregar desde JAR 2](SS/3.png)
-   ![Agregar desde JAR 3](SS/4.png)
+   ![2](SS/2.png)
+   ![3](SS/3.png)
+   ![4](SS/4.png)
 4. Ya está listo para usar y arrastrar a tus componentes
-5. Prueba ya sea en tu `JFrame` o `JDialog` funciona.
+5. Prueba, ya sea en tu `JFrame` o `JDialog`, que funciona.
+   ![5](SS/5.png)
+
+## Funcionamiento
+Para ver el funcionamiento del componente *PanelFirma*!
+
+Haz clic para ver el video ---> https://youtu.be/xAkmzjIWtPI.
+
+## Autores
+- Ortiz Martinez José Julián - (https://github.com/JoseOrtizJM))
+- Olmedo Carbajal Giovany Raymundo - (https://github.com/GiovanyRaymundoOC))
